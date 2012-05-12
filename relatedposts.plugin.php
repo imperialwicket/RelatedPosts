@@ -10,7 +10,7 @@
  *
  */
 
-class recent_posts extends Plugin
+class related_posts extends Plugin
 {
 	private $config= array();
 	private $default_options= array (
